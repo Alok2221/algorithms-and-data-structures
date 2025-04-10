@@ -37,5 +37,5 @@ Wybierz opcję:
 
 
 ## Lista zadań  
-### 💾 Zadania zostają zapisane do pliku [tasks](/src/main/resources/tasks.txt)
+### 💾 Zadania zostają zapisane do pliku [tasks](src/main/resources/tasks.txt)
 #### Ścieżka: /src/main/resources/tasks.txt
