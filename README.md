@@ -31,11 +31,11 @@ Wybierz opcję:
 | Opcja | Akcja                           | Przykładowe użycie                                                       |
 |-------|---------------------------------|--------------------------------------------------------------------------|
 | 1     | Dodaje nowe zadanie             | **Podaj zadanie:** Spotkanie z klientem  <br> **Opis:** O 14:00 w biurze |
-| 2     | Usuwa najstarsze zadanie        | **Usunięto:** Kupić mleko                                                |
+| 2     | Usuwa zadanie po numerze        | **Usunięto:** Kupić mleko                                                |
 | 3     | Zapisuje do pliku i kończy      | **Zapisano do:** src/main/resources/tasks.txt                            |
 | 4     | Oznacza zadanie jako zakończone | **Podaj nr zadania:** 2  <br> **Zakończono:** Napisać dokumentację       |
 
 
 ## Lista zadań  
 ### 💾 Zadania zostają zapisane do pliku [tasks](src/main/resources/tasks.txt)
-#### Ścieżka: /src/main/resources/tasks.txt
+#### Ścieżka: ****/src/main/resources/tasks.txt***

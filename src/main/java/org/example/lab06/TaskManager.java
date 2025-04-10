@@ -44,14 +44,6 @@ public class TaskManager {
         return taskQueue.size();
     }
 
-    public List<Task> getAllTasks() {
-        List<Task> tasks = new ArrayList<>();
-        for (Task task : taskQueue) {
-            tasks.add(task);
-        }
-        return tasks;
-    }
-
     @Override
     public String toString() {
         if (taskQueue.isEmpty()) {

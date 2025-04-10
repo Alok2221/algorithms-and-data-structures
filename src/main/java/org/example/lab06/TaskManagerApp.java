@@ -27,11 +27,11 @@ public class TaskManagerApp {
                     removeTask();
                     break;
                 case 3:
-                    saveTasksToFile();
-                    running = false;
+                    completeTaskByIndex();
                     break;
                 case 4:
-                    completeTaskByIndex();
+                    saveTasksToFile();
+                    running = false;
                     break;
                 default:
                     System.out.println("Nieprawidłowy wybór. Spróbuj ponownie.");
